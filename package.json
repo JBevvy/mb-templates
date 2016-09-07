@@ -1,0 +1,22 @@
+{
+  "name": "mannbenham-templates",
+  "version": "1.0.0",
+  "description": "mb redesign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBevvy/mb-templates.git"
+  },
+  "keywords": [
+    "mannbenham"
+  ],
+  "author": "jon beveridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBevvy/mb-templates/issues"
+  },
+  "homepage": "https://github.com/JBevvy/mb-templates#readme"
+}
